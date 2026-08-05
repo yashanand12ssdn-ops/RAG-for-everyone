@@ -1,0 +1,79 @@
+NVIDIA Corporation
+
+Overview
+NVIDIA is an American technology company founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem. The company is headquartered in Santa Clara, California. NVIDIA originally became famous for designing graphics processing units (GPUs) for gaming computers. Over time, it expanded into artificial intelligence, autonomous driving, robotics, cloud computing, and scientific computing.
+
+Mission
+NVIDIA's mission is to solve the world's most challenging computing problems through accelerated computing and artificial intelligence.
+
+Products
+
+GeForce
+Consumer graphics cards designed for gaming and content creation.
+
+RTX Series
+Advanced GPUs featuring real-time ray tracing and AI-powered DLSS technology.
+
+CUDA
+A parallel computing platform that enables developers to use GPUs for general-purpose computing.
+
+DGX Systems
+High-performance AI supercomputers designed for deep learning workloads.
+
+H100 GPU
+Built on Hopper architecture, optimized for training and inference of large language models.
+
+Blackwell Architecture
+Latest GPU architecture providing significant performance improvements for AI workloads.
+
+Industries Served
+
+Gaming
+Artificial Intelligence
+Autonomous Vehicles
+Healthcare
+Robotics
+Scientific Research
+Cloud Computing
+
+Key Technologies
+
+GPU Computing
+CUDA Programming
+Tensor Cores
+Ray Tracing
+Deep Learning
+Generative AI
+Omniverse
+Digital Twins
+
+Interesting Facts
+
+NVIDIA powers many of today's largest AI models.
+Most modern AI training clusters use NVIDIA GPUs.
+The CUDA ecosystem contains thousands of optimized libraries.
+NVIDIA Omniverse enables collaborative 3D simulation.
+
+CEO
+Jensen Huang
+
+Headquarters
+Santa Clara, California, USA
+
+Founded
+1993
+
+Employees
+Over 35,000 worldwide.
+
+Keywords
+GPU
+CUDA
+Tensor Core
+Deep Learning
+AI Accelerator
+RTX
+Gaming
+Data Center
+Supercomputer
+Machine Learning

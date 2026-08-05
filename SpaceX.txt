@@ -1,0 +1,81 @@
+SpaceX
+
+Overview
+
+Space Exploration Technologies Corporation (SpaceX) was founded in 2002 by Elon Musk. The company aims to reduce space transportation costs and enable humans to become a multi-planetary species.
+
+Mission
+
+Make life multiplanetary.
+
+Major Rockets
+
+Falcon 1
+First privately developed liquid-fueled rocket to reach orbit.
+
+Falcon 9
+Reusable orbital rocket widely used for satellite launches.
+
+Falcon Heavy
+One of the world's most powerful operational rockets.
+
+Starship
+Fully reusable launch system designed for missions to Mars and the Moon.
+
+Dragon Spacecraft
+
+Cargo Dragon
+Supplies cargo to the International Space Station.
+
+Crew Dragon
+Carries astronauts to the ISS under NASA's Commercial Crew Program.
+
+Technologies
+
+Reusable Rockets
+Vertical Landing
+Raptor Engines
+Methane Fuel
+Heat Shield Technology
+Orbital Refueling
+
+Achievements
+
+First private company to reach orbit.
+First private company to send astronauts to ISS.
+Developed reusable rocket boosters.
+Operates Starlink satellite internet constellation.
+
+Starlink
+
+A satellite internet service providing high-speed internet worldwide using thousands of low Earth orbit satellites.
+
+Headquarters
+
+Hawthorne, California
+
+Founder
+
+Elon Musk
+
+Founded
+
+2002
+
+Employees
+
+Over 15,000
+
+Keywords
+
+Rocket
+Falcon
+Starship
+Dragon
+Mars
+NASA
+Starlink
+Reusable
+Launch
+Orbital
+Space

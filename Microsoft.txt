@@ -1,0 +1,81 @@
+Microsoft Corporation
+
+Overview
+
+Microsoft Corporation is a multinational technology company founded in 1975 by Bill Gates and Paul Allen. Microsoft develops software, cloud platforms, gaming systems, developer tools, productivity applications, and AI technologies.
+
+Mission
+
+Empower every person and every organization on the planet to achieve more.
+
+Products
+
+Windows
+Microsoft Office
+Microsoft 365
+Azure
+GitHub
+Visual Studio
+Visual Studio Code
+Xbox
+Teams
+Copilot
+
+Cloud Computing
+
+Azure Virtual Machines
+Azure Functions
+Azure Kubernetes Service
+Azure AI
+Azure SQL Database
+
+Developer Tools
+
+GitHub
+VS Code
+Visual Studio
+.NET
+C#
+PowerShell
+
+Artificial Intelligence
+
+Microsoft Copilot
+Azure OpenAI
+Phi Models
+Semantic Kernel
+
+Gaming
+
+Xbox
+Game Pass
+Minecraft
+
+CEO
+
+Satya Nadella
+
+Founded
+
+1975
+
+Headquarters
+
+Redmond, Washington
+
+Employees
+
+Over 220,000
+
+Keywords
+
+Windows
+Azure
+Office
+GitHub
+VS Code
+Copilot
+Cloud
+AI
+Developer
+Xbox

@@ -1,0 +1,78 @@
+Google
+
+Overview
+
+Google LLC is an American multinational technology company specializing in internet services, cloud computing, artificial intelligence, and online advertising. It was founded in 1998 by Larry Page and Sergey Brin while they were PhD students at Stanford University.
+
+Mission
+
+Organize the world's information and make it universally accessible and useful.
+
+Products
+
+Google Search
+Gmail
+Google Maps
+Google Chrome
+Android
+Google Drive
+Google Photos
+Google Meet
+Google Workspace
+YouTube
+Gemini AI
+
+Cloud Services
+
+Google Cloud Platform (GCP)
+BigQuery
+Vertex AI
+Cloud Storage
+Cloud Functions
+Kubernetes Engine
+
+Artificial Intelligence
+
+Gemini Models
+TensorFlow
+Vertex AI
+TPU Chips
+Natural Language Processing
+
+Business Areas
+
+Search
+Advertising
+Cloud Computing
+AI Research
+Mobile Operating Systems
+Consumer Electronics
+
+CEO
+
+Sundar Pichai
+
+Parent Company
+
+Alphabet Inc.
+
+Founded
+
+1998
+
+Headquarters
+
+Mountain View, California
+
+Keywords
+
+Search Engine
+Android
+Chrome
+AI
+Cloud
+Gemini
+TensorFlow
+Maps
+Workspace
+Advertising
